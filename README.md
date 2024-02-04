@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT] ()
+[MIT] (https://github.com/mustafadlglu/kodluyoruzilkrepo/blob/3918afcc2e45d3ac10059b76129a3d6319e1a618/LICENSE)
